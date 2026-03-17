@@ -1,3 +1,7 @@
+Future n0t Found Version 1.3
+
+Added Russian symbols
+
 Future n0t Found Version 1.2
 
 Fixed by Serufu Yua
