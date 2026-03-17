@@ -1,24 +1,21 @@
-Future n0t Found Version 1.3
+![preview](./preview.png)
+
+# Techno Square Font "Future n0t Found"
+
+Edited using [FontForge](https://fontforge.org)
+
+## History
+
+### Future n0t Found Version 1.3
 
 Added Russian symbols
 
-Future n0t Found Version 1.2
+### Future n0t Found Version 1.2
 
 Fixed by Serufu Yua
 
-Future n0t Found Version 1.1
+### Future n0t Found Version 1.1
 
-Designed by Michael Moss
-
-whitespirals.com
-Contact me at mechanismatic@gmail.com for questions or feedback.
-
-Created using Birdfont by Johan Mattsson
-http://birdfont.org/
-
+Original designed by [Michael Moss](https://michaelwmoss.com/typefaces/future-n0t-found) mechanismatic@gmail.com
 9/25/2015
-
-
-Copyright and Licensing:
-This work is licensed under a Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/
 
