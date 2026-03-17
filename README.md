@@ -1,6 +1,6 @@
-![preview](./preview.png)
-
 # Techno Square Font "Future n0t Found"
+
+![preview](./preview.png)
 
 Edited using [FontForge](https://fontforge.org)
 
@@ -16,6 +16,6 @@ Fixed by Serufu Yua
 
 ### Future n0t Found Version 1.1
 
-Original designed by [Michael Moss](https://michaelwmoss.com/typefaces/future-n0t-found) mechanismatic@gmail.com
+Original designed by [Michael Moss](https://michaelwmoss.com/typefaces/future-n0t-found) (mechanismatic@gmail.com)
 9/25/2015
 
