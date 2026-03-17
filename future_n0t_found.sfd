@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1443291566
-ModificationTime: 1773512964
+ModificationTime: 1773739057
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -86,8 +86,8 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 18 9
-BeginChars: 1114113 298
+WinInfo: 891 27 15
+BeginChars: 1114113 299
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -162,6 +162,7 @@ SplineSet
  154 0 154 0 48 0 c 5,14,15
  48 0 48 0 48 84 c 5,8,9
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -183,6 +184,7 @@ SplineSet
  310 717 310 717 310 450 c 5,14,15
  310 450 310 450 219 450 c 5,8,9
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: numbersign
@@ -228,6 +230,7 @@ SplineSet
  294 465 294 465 294 356 c 5,62,63
  294 356 294 356 402 356 c 5,56,57
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dollar
@@ -272,6 +275,7 @@ SplineSet
  249 643 249 643 366 643 c 5,58,59
  366 643 366 643 366 575 c 5,16,17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -316,6 +320,7 @@ SplineSet
  263 484 263 484 221 431 c 5,53,54
  221 431 221 431 49 431 c 5,43,44
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -350,6 +355,7 @@ SplineSet
  359 172 359 172 359 336 c 5,38,39
  359 336 359 336 465 336 c 5,16,17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -366,6 +372,7 @@ SplineSet
  157 717 157 717 157 451 c 5,6,7
  157 451 157 451 65 451 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenleft
@@ -392,6 +399,7 @@ SplineSet
  81 120 81 120 49 159 c 1,26,27
  49 422 49 422 49 509 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenright
@@ -416,6 +424,7 @@ SplineSet
  310 599 310 599 342 560 c 5,22,23
  342 560 342 560 342 160 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -443,6 +452,7 @@ SplineSet
  441 562 441 562 451 534 c 5,28,29
  362 504 362 504 333 494 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: plus
@@ -467,6 +477,7 @@ SplineSet
  289 420 289 420 430 420 c 5,22,23
  430 420 430 420 430 315 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: comma
@@ -483,6 +494,7 @@ SplineSet
  117 102 117 102 225 102 c 5,6,7
  179 39 179 39 43 -148 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hyphen
@@ -499,6 +511,7 @@ SplineSet
  40 318 40 318 40 415 c 5,6,7
  40 415 40 415 449 415 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -515,6 +528,7 @@ SplineSet
  154 0 154 0 48 0 c 5,6,7
  48 0 48 0 48 84 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: slash
@@ -531,13 +545,14 @@ SplineSet
  40 0 40 0 40 164 c 5,6,7
  149 302 149 302 477 717 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zero
 Encoding: 48 48 19
 Width: 573
 GlyphClass: 1
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -561,6 +576,7 @@ SplineSet
  177 95 177 95 320 95 c 5,30,31
  339 118 339 118 395 185 c 5,22,23
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: one
@@ -586,6 +602,7 @@ SplineSet
  485 84 485 84 485 0 c 5,24,25
  485 0 485 0 67 0 c 5,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -670,6 +687,7 @@ SplineSet
  282 413 282 413 282 717 c 1,26,27
  282 717 282 717 384 718 c 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: five
@@ -9490,6 +9508,30 @@ SplineSet
  267 81 l 1,12,-1
  356 81 l 1,13,-1
  456 208 l 1,10,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0447
+Encoding: 1095 1095 298
+Width: 512
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+350 510 m 1,0,1
+ 449 510 449 510 449 510 c 1,2,3
+ 449 0 449 0 449 0 c 1,4,5
+ 350 0 350 0 350 0 c 1,6,7
+ 350 213 350 213 350 213 c 1,8,9
+ 310 165 310 165 296 148 c 1,10,11
+ 63 148 63 148 63 148 c 1,12,13
+ 63 510 63 510 63 510 c 1,14,15
+ 161 510 161 510 161 510 c 1,16,17
+ 161 230 161 230 161 230 c 1,18,19
+ 250 230 250 230 250 230 c 1,20,21
+ 325 323 325 323 350 355 c 1,22,23
+ 350 510 350 510 350 510 c 1,0,1
 EndSplineSet
 Validated: 1
 EndChar
