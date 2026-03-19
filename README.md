@@ -12,7 +12,7 @@ Added Russian symbols
 
 ### Version 1.2
 
-Fixed by Serufu Yua
+Fixed intersecting contours and contour directions
 
 ### Version 1.1
 
