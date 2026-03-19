@@ -8,14 +8,15 @@ Edited using [FontForge](https://fontforge.org)
 
 ### Version 1.3
 
-Added Russian symbols
+Added Russian symbols.
 
 ### Version 1.2
 
-Fixed intersecting contours and contour directions
+Fixed intersecting contours and contour directions.
+
+This and all later versions here are made by Serufu Yuya.
 
 ### Version 1.1
 
 Original designed by [Michael Moss](https://michaelwmoss.com/typefaces/future-n0t-found) (mechanismatic@gmail.com)
 9/25/2015
-
